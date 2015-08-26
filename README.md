@@ -16,4 +16,5 @@ System Requirement:
   - Matlab for pre-processing of your mesh (or use default meshes).
   - Visualization software-write out Tecplot format data for either Tecplot (commercial) or Visit (freely available at https://wci.llnl.gov/codes/visit/home.html) 
   
-  
+![](https://github.com/flow-phys/cybo/blob/master/doc/figs/naca_p_c.pdf)  
+
